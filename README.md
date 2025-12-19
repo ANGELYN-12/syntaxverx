@@ -12,7 +12,7 @@
         <p><b>Computer Science Student | Aspiring Computer Science Engineer</b></p>
         <p>🌌 Exploring programming, problem-solving, and software development</p>
       </td>
-      
+    </tr>
   </table>
 </div>
 
