@@ -15,7 +15,8 @@
 
       <!-- RIGHT IMAGE -->
       <td align="center">
-        <img src="https://via.placeholder.com/160" width="160" alt="Space badge"/>
+        <img src="https://github.com/ANGELYN-12/syntaxverx/blob/0625bf1de736de4c1be57b6e5b2115d6b574204d/a3c4e2a0-04df-11e3-824c-7378e6550707.webp" 
+        width="160" alt="Space badge"/>
       </td>
     </tr>
   </table>
