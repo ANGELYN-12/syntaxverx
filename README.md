@@ -1,15 +1,15 @@
 <div align="center">
   <table>
     <tr>
-  <!-- LEFT IMAGE -->
-  <td align="center">
-      <img src="https://github.com/ANGELYN-12/syntaxverx/blob/main/FkEabVcWIAEhLQf.jpg?raw=true" width="220" alt="Space illustration"/>
-  </td>>
+      <!-- LEFT IMAGE -->
+      <td align="center">
+        <img src="https://github.com/ANGELYN-12/syntaxverx/blob/main/FkEabVcWIAEhLQf.jpg?raw=true" width="220" alt="Space illustration"/>
+      </td>
        
-   <!-- CENTER TEXT -->
+      <!-- CENTER TEXT -->
       <td align="center">
         <h1>👋 Hi, I’m Angelyn T. Ablaza!</h1>
-        <p><b>Computer Science Student | Aspiring Computer Engineer</b></p>
+        <p><b>Computer Science Student | Aspiring Computer Science Engineer</b></p>
         <p>🌌 Exploring programming, problem-solving, and software development</p>
       </td>
 
