@@ -1,19 +1,17 @@
+<!-- 🌌 HEADER -->
 <div align="center">
-  <table>
-    <tr>
-      <!-- LEFT IMAGE -->
-      <td align="center">
-        <img src="https://github.com/ANGELYN-12/syntaxverx/blob/main/FkEabVcWIAEhLQf.jpg?raw=true" width="220" alt="Space illustration"/>
-      </td>
+  <!-- LEFT IMAGE -->
+  <img src="https://github.com/ANGELYN-12/syntaxverx/blob/main/FkEabVcWIAEhLQf.jpg?raw=true" 
+       width="150" 
+       alt="Space illustration" 
+       style="display:inline-block; vertical-align:middle;"/>
        
-      <!-- CENTER TEXT -->
-      <td align="center">
-        <h1>👋 Hi, I’m Angelyn T. Ablaza!</h1>
-        <p><b>Computer Science Student | Aspiring Computer Science Engineer</b></p>
-        <p>🌌 Exploring programming, problem-solving, and software development</p>
-      </td>
-    </tr>
-  </table>
+  <!-- CENTER TEXT -->
+  <div style="display:inline-block; margin: 0 20px; text-align:center;">
+    <h1>👋 Hi, I’m Angelyn T. Ablaza!</h1>
+    <p><b>Computer Science Student | Aspiring Computer Science Engineer</b></p>
+    <p>🌌 Exploring programming, problem-solving, and software development</p>
+  </div>
 </div>
 
 <br>
@@ -25,8 +23,7 @@
 
 <!-- VISITOR COUNT -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AngelynAblaza&label=Visitors&color=0E75B6&style=flat" 
-       alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=AngelynAblaza&label=Visitors&color=0E75B6&style=flat" alt="Visitor Count"/>
 </p>
 <hr>
 
@@ -49,4 +46,3 @@
 <div align="center">
 ✨ Thank you for visiting my profile! Feel free to explore my projects and connect with me.
 </div>
-
