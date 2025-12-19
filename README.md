@@ -1,3 +1,5 @@
+![Space illustration](https://github.com/ANGELYN-12/syntaxverx/blob/main/FkEabVcWIAEhLQf.jpg?raw=true)
+
 ## 👩‍🎓 About Me
 - 🎓 I’m currently a Computer Science student with experience in programming and technology  
 - 💻 I have learned **C, C++, Java, Database Management Systems (DBMS), and Operating Systems (OS)**  
