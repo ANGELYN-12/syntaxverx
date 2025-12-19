@@ -5,14 +5,16 @@
        width="150" 
        alt="Space illustration" 
        style="display:inline-block; vertical-align:middle;"/>
-  <!-- LEFT IMAGE -->
-
+       
   <!-- CENTER TEXT -->
   <div style="display:inline-block; margin: 0 20px; text-align:center;">
-    <h1>👋 Hi, I’m Angelyn!</h1>
+    <h1>👋 Hi, I’m Angelyn T. Ablaza!</h1>
     <p><b>Computer Science Student</b></p>
     <p>🌌 Exploring programming, problem-solving, and software development</p>
-</div>
+  </div> <!-- Close center text -->
+
+</div> <!-- Close header div -->
+
 <br>
 
 <!-- MOTIVATIONAL QUOTE -->
@@ -25,9 +27,7 @@
   <img src="https://komarev.com/ghpvc/?username=AngelynAblaza&label=Visitors&color=0E75B6&style=flat" 
        alt="Visitor Count"/>
 </p>
-
 <hr>
-
 
 <div align="left">
 
@@ -48,3 +48,4 @@
 <div align="center">
 ✨ Thank you for visiting my profile! Feel free to explore my projects and connect with me.
 </div>
+
