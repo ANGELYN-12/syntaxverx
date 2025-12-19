@@ -1,20 +1,25 @@
-<!-- 🌌 HEADER -->
 <div align="center">
+  <table>
+    <tr>
   <!-- LEFT IMAGE -->
-  <img src="https://github.com/ANGELYN-12/syntaxverx/blob/main/FkEabVcWIAEhLQf.jpg?raw=true" 
- <img src="https://github.com/ANGELYN-12/syntaxverx/blob/main/FkEabVcWIAEhLQf.jpg?raw=true"
-       width="220" 
-       alt="Space illustration" 
-       style="display:inline-block; vertical-align:middle;"/>
+  <td align="center">
+      <img src="https://github.com/ANGELYN-12/syntaxverx/blob/main/FkEabVcWIAEhLQf.jpg?raw=true" width="220" alt="Space illustration"/>
+  </td>>
        
-  <!-- CENTER TEXT -->
-  <div style="display:inline-block; margin: 0 20px; text-align:center;">
-    <h1>👋 Hi, I’m Angelyn T. Ablaza!</h1>
-    <p><b>Computer Science Student</b></p>
-    <p>🌌 Exploring programming, problem-solving, and software development</p>
-  </div> <!-- Close center text -->
+   <!-- CENTER TEXT -->
+      <td align="center">
+        <h1>👋 Hi, I’m Angelyn T. Ablaza!</h1>
+        <p><b>Computer Science Student | Aspiring Computer Engineer</b></p>
+        <p>🌌 Exploring programming, problem-solving, and software development</p>
+      </td>
 
-</div> <!-- Close header div -->
+      <!-- RIGHT IMAGE -->
+      <td align="center">
+        <img src="https://via.placeholder.com/160" width="160" alt="Space badge"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
