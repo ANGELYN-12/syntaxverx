@@ -26,24 +26,22 @@
 </p>
 <hr>
 
-<p align="left">
+<div align="left">
+
 ## 👩‍🎓 About Me
 - 🎓 I’m currently a Computer Science student with experience in programming and technology  
 - 💻 I have learned **C, C++, Java, Database Management Systems (DBMS), and Operating Systems (OS)**  
 - 🎯 My goal is to build meaningful projects, deepen my programming knowledge, and become a skilled computer science engineer  
-<p align="left">
 
-<p align="left">
 ## 🛠 Skills
 - **Programming Languages:** C, C++, Java, HTML, CSS, JavaScript  
 - **Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms, Web Development Basics  
-<p align="left">
-  
-  <p align="left">
+
 ## 📫 Contact
 - 📧 Email: **angelyn.ablaza97@gmail.com**
-<p align="left">
 
-<p align="center">
+</div>
+
+<div align="center">
 ✨ Thank you for visiting my profile! Feel free to explore my projects and connect with me.
-<p align="center">
+</div>
