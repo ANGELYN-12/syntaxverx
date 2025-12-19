@@ -12,15 +12,7 @@
     <h1>👋 Hi, I’m Angelyn!</h1>
     <p><b>Computer Science Student</b></p>
     <p>🌌 Exploring programming, problem-solving, and software development</p>
-  </div>
-
-  <!-- RIGHT IMAGE (optional, you can replace the URL later) -->
-  <img src="https://via.placeholder.com/120" 
-       width="120" 
-       alt="Space badge" 
-       style="display:inline-block; vertical-align:middle;"/>
 </div>
-
 <br>
 
 <!-- MOTIVATIONAL QUOTE -->
