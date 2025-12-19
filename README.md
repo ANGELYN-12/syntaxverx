@@ -2,6 +2,7 @@
 <div align="center">
   <!-- LEFT IMAGE -->
   <img src="https://github.com/ANGELYN-12/syntaxverx/blob/main/FkEabVcWIAEhLQf.jpg?raw=true" 
+ <img src="https://github.com/ANGELYN-12/syntaxverx/blob/main/FkEabVcWIAEhLQf.jpg?raw=true"
        width="220" 
        alt="Space illustration" 
        style="display:inline-block; vertical-align:middle;"/>
