@@ -1,7 +1,7 @@
 <!-- 🌌 HEADER -->
 <div align="center">
   <!-- LEFT IMAGE -->
-  <img src="(https://www.vecteezy.com/free-vector/coding-background)" 
+  <img src="(https://github.com/ANGELYN-12/syntaxverx/blob/e6adb8702f06210a89ccbddb777c76225b70b00c/FkEabVcWIAEhLQf.jpg)" 
        width="150" 
        alt="Space illustration" 
        style="display:inline-block; vertical-align:middle;"/>
