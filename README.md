@@ -5,6 +5,7 @@
        width="150" 
        alt="Space illustration" 
        style="display:inline-block; vertical-align:middle;"/>
+  <!-- LEFT IMAGE -->
 
   <!-- CENTER TEXT -->
   <div style="display:inline-block; margin: 0 20px; text-align:center;">
