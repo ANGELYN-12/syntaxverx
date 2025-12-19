@@ -12,14 +12,6 @@
     <p><b>Computer Science Student</b></p>
     <p>🌌 Exploring programming, problem-solving, and software development</p>
   </div>
-
-  <!-- RIGHT IMAGE (optional, you can replace the URL later) -->
-  <img src="https://via.placeholder.com/120" 
-       width="120" 
-       alt="Space badge" 
-       style="display:inline-block; vertical-align:middle;"/>
-</div>
-
 <br>
 
 <!-- MOTIVATIONAL QUOTE -->
@@ -32,8 +24,8 @@
   <img src="https://komarev.com/ghpvc/?username=AngelynAblaza&label=Visitors&color=0E75B6&style=flat" 
        alt="Visitor Count"/>
 </p>
-
 <hr>
+
 ## 👩‍🎓 About Me
 - 🎓 I’m currently a Computer Science student with experience in programming and technology  
 - 💻 I have learned **C, C++, Java, Database Management Systems (DBMS), and Operating Systems (OS)**  
