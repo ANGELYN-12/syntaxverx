@@ -26,6 +26,7 @@
 </p>
 <hr>
 
+<p align="left">
 ## 👩‍🎓 About Me
 - 🎓 I’m currently a Computer Science student with experience in programming and technology  
 - 💻 I have learned **C, C++, Java, Database Management Systems (DBMS), and Operating Systems (OS)**  
@@ -37,5 +38,8 @@
 
 ## 📫 Contact
 - 📧 Email: **angelyn.ablaza97@gmail.com**
+<p align="left">
 
+<p align="center">
 ✨ Thank you for visiting my profile! Feel free to explore my projects and connect with me.
+<p align="center">
