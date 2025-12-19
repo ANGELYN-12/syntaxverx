@@ -1,7 +1,7 @@
 <!-- 🌌 HEADER -->
 <div align="center">
   <!-- LEFT IMAGE -->
-  <img src="(https://github.com/ANGELYN-12/syntaxverx/blob/e6adb8702f06210a89ccbddb777c76225b70b00c/FkEabVcWIAEhLQf.jpg)" 
+  <img src="https://github.com/ANGELYN-12/syntaxverx/blob/main/FkEabVcWIAEhLQf.jpg?raw=true" 
        width="150" 
        alt="Space illustration" 
        style="display:inline-block; vertical-align:middle;"/>
@@ -12,6 +12,14 @@
     <p><b>Computer Science Student</b></p>
     <p>🌌 Exploring programming, problem-solving, and software development</p>
   </div>
+
+  <!-- RIGHT IMAGE (optional, you can replace the URL later) -->
+  <img src="https://via.placeholder.com/120" 
+       width="120" 
+       alt="Space badge" 
+       style="display:inline-block; vertical-align:middle;"/>
+</div>
+
 <br>
 
 <!-- MOTIVATIONAL QUOTE -->
@@ -24,7 +32,9 @@
   <img src="https://komarev.com/ghpvc/?username=AngelynAblaza&label=Visitors&color=0E75B6&style=flat" 
        alt="Visitor Count"/>
 </p>
+
 <hr>
+
 
 <div align="left">
 
